@@ -1,0 +1,13 @@
+{
+  "claim_loss_type_cd": "TEL",
+  "claim_type": "001",
+  "claim_reason": "002",
+  "policy_number": "123kk45fff678" ,
+  "info":
+  {
+    "ApplicationContext":
+    {
+      "country": "US"
+    }
+  }
+}

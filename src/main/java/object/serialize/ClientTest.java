@@ -57,10 +57,10 @@ public class ClientTest {
             for (Employee emp : emps) {
                 i++;
                 System.out.println("Emp "+i+" deserialized..");
-                System.out.println("emp id=" + emp.getId());
-                System.out.println("emp name=" + emp.getName());
-                System.out.println("emp email=" + emp.getEmail());
-                System.out.println("emp salary=" + emp.getSalary());
+                System.out.println("emp id= " + emp.getId());
+                System.out.println("emp name= " + emp.getName());
+                System.out.println("emp email= " + emp.getEmail());
+                System.out.println("emp salary= " + emp.getSalary());
             }
         }
         catch(ClassNotFoundException ex){
