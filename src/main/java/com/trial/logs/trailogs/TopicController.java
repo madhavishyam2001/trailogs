@@ -17,7 +17,7 @@ public class TopicController {
     @RequestMapping("/topics")
     public List<Topic> getAllTopics()
     {
-        System.out.println("testing Git push!!");
+        System.out.println("testing push in Github!!");
         return Arrays.asList(
 
                 new Topic("1","movies","jathi rathnalu"),
